@@ -34,8 +34,9 @@
                       Icon="icon_about.png"
                       Route="HomePage"
                       ContentTemplate="{DataTemplate local:HomePage}" />
-        <ShellContent Title="Browse"
+        <ShellContent Title="Timeline"
                       Icon="icon_feed.png"
-                      ContentTemplate="{DataTemplate local:ItemsPage}" />
+                      Route="TimelinePage"
+                      ContentTemplate="{DataTemplate local:TimelinePage}" />
     </TabBar>
 </Shell>

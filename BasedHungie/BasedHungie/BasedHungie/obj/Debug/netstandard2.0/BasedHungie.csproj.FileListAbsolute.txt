@@ -17,3 +17,4 @@ C:\Users\sch3f\source\repos\Hungie\BasedHungie\BasedHungie\BasedHungie\obj\Debug
 C:\Users\sch3f\source\repos\Hungie\BasedHungie\BasedHungie\BasedHungie\obj\Debug\netstandard2.0\ref\BasedHungie.dll
 C:\Users\sch3f\source\repos\Hungie\BasedHungie\BasedHungie\BasedHungie\obj\Debug\netstandard2.0\BasedHungie.pdb
 C:\Users\sch3f\source\repos\Hungie\BasedHungie\BasedHungie\BasedHungie\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\sch3f\source\repos\Hungie\BasedHungie\BasedHungie\BasedHungie\obj\Debug\netstandard2.0\Views\TimelinePage.xaml.g.cs
