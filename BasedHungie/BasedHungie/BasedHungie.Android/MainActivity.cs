@@ -12,6 +12,7 @@ namespace BasedHungie.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            Window.SetStatusBarColor(Android.Graphics.Color.DarkGreen);
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
