@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "h6+1TiqO4+2ZCbccUlJDMfGSw02L+boSpBtEtUSvfxIx1yJlwRz2C/18yWNI8IfLS2optQj4I+/2UXrHAPowCQ==",
+  "dgSpecHash": "kW0YKhE+mvPooIK1Wz2Y9UgpTFO+CisKMg4OfQkhioQhbyQ2VnV51EcU4v1dlehH/AhkK3TlgqgZLqcR3UaqmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sch3f\\source\\repos\\Hungie\\BasedHungie\\BasedHungie\\BasedHungie.Android\\BasedHungie.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sch3f\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\skiasharp.views\\2.80.2\\skiasharp.views.2.80.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.androidx.activity\\1.2.0.1\\xamarin.androidx.activity.1.2.0.1.nupkg.sha512",

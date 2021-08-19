@@ -4,7 +4,11 @@ using System.Text;
 
 namespace BasedHungie.Models
 {
-    class Meal
+    public class Meal
     {
+        public string Date { get; set; }
+        public int Calories { get; set; }
+        public string Image { get; set; }
+
     }
 }

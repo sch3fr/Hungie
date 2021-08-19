@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Microcharts.Forms;
 
 namespace BasedHungie.Views
 {
@@ -16,5 +17,9 @@ namespace BasedHungie.Views
         {
             InitializeComponent();
         }
+
+
+
+
     }
 }

@@ -1,13 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "bUgtPTdopdBl4ktSzjYrGtPckw/XmlXSIu+zSvPMeMYrg35gtw2zdw7ZfKuN0/FDMOV4wVDfkshH1XBybwXD2Q==",
+  "dgSpecHash": "RCnnWu1TSoRWJJV85n4TjjMjCMOaP2GtN2iAIL3pQgmDEMKA2u4afMw1KuGlwjdMC84v7dvvhniuUx8WhTC1JQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sch3f\\source\\repos\\Hungie\\BasedHungie\\BasedHungie\\BasedHungie\\BasedHungie.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sch3f\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\microcharts.forms\\0.9.5.9\\microcharts.forms.0.9.5.9.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\skiasharp\\2.80.2\\skiasharp.2.80.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\skiasharp.views.forms\\2.80.2\\skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sch3f\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\sch3f\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
